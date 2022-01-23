@@ -1,5 +1,8 @@
 # Interview Guide
 
+{% hint style="info" %} 
+Some of this info is outdated. A new and updated guide will be made soon. You may continue to use it for the time being.
+
 {% hint style="info" %}
 \[HOST] Claim your session on discord.
 {% endhint %}
