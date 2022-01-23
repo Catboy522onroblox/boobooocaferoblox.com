@@ -1,6 +1,6 @@
 # Booster and Donation perks
 
-
+* Full perks are coming soon! :)
 
 * **Donation Perks**&#x20;
 * By donating to Booboo, you can earn different types of perks. Read below to find out what types of perks are accessible to the different levels of donation.&#x20;
