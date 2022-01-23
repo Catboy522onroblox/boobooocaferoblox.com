@@ -1,6 +1,7 @@
 # Training Guide
 
-
+{% hint style="info" %} 
+Some of this info is outdated. A new and updated guide will be made soon. You may continue to use it for the time being.
 
 {% hint style="info" %}
 **\[HOST] Claim your session on the Trello. Here’s the link: https://trello.com/b/dwh7NZm1/booboo-cafe-sessions-operations If you’re unsure on how to use trello, there’s instructions on the site. If you don’t have access to trello, please ask another staff member to claim it for you. All sessions must be claimed on the Trello.**
