@@ -1,6 +1,6 @@
 # Rules and regulations
 
-
+INFORMATION OUTDATED
 
 1. ![🍕](https://discord.com/assets/aa0f4c1498e8a6b14b1e3417b601b5aa.svg)**The basics** Welcome to Booboo— We have a mission to serve and satisfy your taste buds. Providing an excellent roleplay experience while serving delicious items! Our vision is to connect with the customers' passion for food and deliver a truly worthwhile experience. This means dedication to crafting the best coffee around and give a great social experience to our customers. **Want to engage in our community? Link your Roblox account to Discord today!** This server uses Bloxlink verification. Simply state !verify in bot commands, and follow the steps from there. ![📂](https://discord.com/assets/63155fb563c7f3ac84ec1e239d7688a3.svg) ****&#x20;
 2. **Server Rules**&#x20;
